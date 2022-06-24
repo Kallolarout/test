@@ -6,7 +6,7 @@ from transfer_phonenn_360hr_kaldi import Phone_NN, Word_NN
 import helper as hp
 import kaldi_io
 
-## for testing github
+## for testing github hi
 #nothing change done
 
 def main(x):
