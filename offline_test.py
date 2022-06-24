@@ -6,6 +6,8 @@ from transfer_phonenn_360hr_kaldi import Phone_NN, Word_NN
 import helper as hp
 import kaldi_io
 
+## for testing github
+
 def main(x):
     #inp_feat_extraction(x) # it will return test.csv
     create_csv = csv_creat_fun(x)
